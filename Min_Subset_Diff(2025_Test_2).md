@@ -1,3 +1,4 @@
+
 # Deep Dive: The Minimum Partition Problem
 
 ## 1. The Core Intuition: Why Greedy Fails
