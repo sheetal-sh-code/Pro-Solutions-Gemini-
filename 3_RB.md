@@ -1,3 +1,4 @@
+
 # Algorithm Explanation: Equalizing the Necklace
 
 ## 1. The Core Intuition: Validating the Hint
