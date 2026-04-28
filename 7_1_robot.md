@@ -1,3 +1,4 @@
+
 # Deep Dive: The Robot Garbage Collection Problem
 
 ## 1. The Core Intuition: The "Wait Time" Penalty
