@@ -1,3 +1,4 @@
+
 # Deep Dive: Optimal Tile Selection
 
 ## 1. The Core Intuition: Geometric Translation
