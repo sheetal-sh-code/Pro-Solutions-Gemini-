@@ -1,3 +1,4 @@
+
 # Algorithm Explanation: Minimum Days to Clear Warehouse Stock
 
 ## 1. The Core Intuition: Why "Savings" instead of "Simulation"?
