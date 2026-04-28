@@ -1,3 +1,4 @@
+
 # Deep Dive: The Stone Removal Problem
 
 ## 1. The Core Intuition: Reversing Time
