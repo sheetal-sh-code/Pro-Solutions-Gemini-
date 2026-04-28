@@ -1,3 +1,4 @@
+
 # Deep Dive: String Concatenation and State Compression
 
 ## 1. The Core Intuition: Why Backtracking Fails
