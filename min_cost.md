@@ -1,3 +1,4 @@
+
 # Deep Dive: Tree Re-rooting Dynamic Programming
 
 ## 1. The Core Intuition: Why Brute Force Fails
